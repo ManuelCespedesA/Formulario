@@ -22,9 +22,7 @@ button{
     background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);
     background: linear-gradient(to right, #B06AB3, #4568DC);
     border: none;
-    display: block;
     width: 20%;
-    margin: 10px auto;
     color: #fff;
     height: 40ps;
     font-size: 16px;
