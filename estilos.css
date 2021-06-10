@@ -1,0 +1,32 @@
+body{
+    background-color: lightcoral;
+}
+
+input{
+    background: none;
+    color: #645656;
+    font-size: 15px;
+    border: none;
+    border-bottom: 1px solid;
+}
+
+label{
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+button{
+    font-family: 'roboto';
+    background: #4568DC;
+    background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);
+    background: linear-gradient(to right, #B06AB3, #4568DC);
+    border: none;
+    display: block;
+    width: 20%;
+    margin: 10px auto;
+    color: #fff;
+    height: 40ps;
+    font-size: 16px;
+    cursor: pointer;
+}
